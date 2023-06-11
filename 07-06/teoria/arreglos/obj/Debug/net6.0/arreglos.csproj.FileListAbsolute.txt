@@ -1,0 +1,15 @@
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\bin\Debug\net6.0\arreglos.exe
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\bin\Debug\net6.0\arreglos.deps.json
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\bin\Debug\net6.0\arreglos.runtimeconfig.json
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\bin\Debug\net6.0\arreglos.dll
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\bin\Debug\net6.0\arreglos.pdb
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.csproj.AssemblyReference.cache
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfoInputs.cache
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfo.cs
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.dll
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\refint\arreglos.dll
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.pdb
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\arreglos.genruntimeconfig.cache
+C:\Users\Joni\Desktop\BT NET\07-06\teoria\arreglos\obj\Debug\net6.0\ref\arreglos.dll

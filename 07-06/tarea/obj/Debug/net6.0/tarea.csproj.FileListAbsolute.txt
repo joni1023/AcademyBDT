@@ -1,0 +1,15 @@
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\bin\Debug\net6.0\tarea.exe
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\bin\Debug\net6.0\tarea.deps.json
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\bin\Debug\net6.0\tarea.runtimeconfig.json
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\bin\Debug\net6.0\tarea.dll
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\bin\Debug\net6.0\tarea.pdb
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.csproj.AssemblyReference.cache
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.AssemblyInfoInputs.cache
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.AssemblyInfo.cs
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.dll
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\refint\tarea.dll
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.pdb
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\tarea.genruntimeconfig.cache
+C:\Users\Joni\Desktop\BT NET\07-06\tarea\obj\Debug\net6.0\ref\tarea.dll
